@@ -1,4 +1,8 @@
 # dxcc.py
+# By: SM5AJV
+# Inspired by https://github.com/dj1yfk/dxcc
+#
+
 from __future__ import print_function
 # import sys
 import argparse
